@@ -5,6 +5,6 @@ ODK Collect is a replacement for paper forms with support for geo-locations, ima
 
 ODK Collect is designed to work out of touch with a cellular network / Wi-Fi during the data collection effort. Once back in the network coverage, the completed forms can be copied out of the device or sent to a server (you control) for analysis.
 
-ODK Aggregate is a free server. ODK Collect can use ODK Aggregate to download the form definitions and receive completed forms. ODK Aggregate can generate CSV files or publish data in Google Spreadsheets, Google Fusion Tables and elsewhere. There is a robust user community and many companies that can provide assistance to organizations deploying surveys based on ODK.
+Lischa Mobile uses Lischa Aggregate to download the form definitions and receive completed forms. 
 
-Go to https://opendatakit.org for more information.
+To know more about ODK Collect go to https://opendatakit.org for more information.
